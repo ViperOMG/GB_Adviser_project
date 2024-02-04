@@ -902,7 +902,7 @@ button.main-button:focus-visible {
   }
   nav.aside-navbar.is-active .aside-navbar-content {
     display: block;
-    transform: translateY(10vw);
+    transform: translateY(1vh);
   }
   nav.aside-navbar .aside-navbar-content {
     position: sticky;
