@@ -9,6 +9,7 @@
 
 >[!NOTE]
 >[Макет в Figma](https://www.figma.com/file/bNTF4VVYd23Fo84jjh5AeB/GB-Adviser?type=design&node-id=0-1&mode=design&t=W17AqDvx3HqtZWNz-0)
+>[Смотреть работу тут]([https://www.figma.com/file/bNTF4VVYd23Fo84jjh5AeB/GB-Adviser?type=design&node-id=0-1&mode=design&t=W17AqDvx3HqtZWNz-0](https://viperomg.github.io/gb_adviser_project/))
 
  __Что было сделано:__
  > -Реализован адаптивный дизайн
