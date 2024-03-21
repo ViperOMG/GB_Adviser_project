@@ -15,15 +15,9 @@
  __Что было сделано:__
  > -Реализован адаптивный дизайн
 
-<br> </br> 
-
-![image](https://github.com/ViperOMG/gb_adviser_project/assets/81018280/44cdfb76-8d7b-4483-ae1b-ac8f44d70605)
-![image](https://github.com/ViperOMG/gb_adviser_project/assets/81018280/2f25bce7-9d65-4c38-9adf-c5f7be77d706)
-![image](https://github.com/ViperOMG/gb_adviser_project/assets/81018280/97ab1a75-3593-435c-9cc3-dc64c22d8b05)
-![image](https://github.com/ViperOMG/gb_adviser_project/assets/81018280/a7e487c7-3f8d-45d4-a915-002c71b8eb94)
 
  > -Для широкоформатных экранов реализовано ограничение, для комфортного восприятия интерфеса
-![image](https://github.com/ViperOMG/gb_adviser_project/assets/81018280/a07671ef-6c7c-4de3-97fe-26925222871b)
+
 
 
  > -Увеличены внутренние отступы на всех кнопках в `navbar` и `aside bar`, для комфортного взаимодействия как на десктопах, так и на мобильных устройствах. 
